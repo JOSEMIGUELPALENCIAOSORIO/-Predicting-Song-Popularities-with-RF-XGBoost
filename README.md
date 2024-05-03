@@ -1,7 +1,7 @@
 # Classification Model Performance Evaluation
 
 ## Overview
-This project leverages classification models to accurately predict categorical outcomes designated as "Hit" and "Work in Progress". Our goal is to fine-tune these models to achieve higher predictive accuracy and efficiency, thereby enabling better decision-making processes based on the model outputs.
+This project leverages classification models to accurately predict categorical outcomes designated as "Hit" and "Work in Progress". The goal is to fine-tune these models to achieve higher predictive accuracy and efficiency, thereby enabling better decision-making processes based on the model outputs.
 
 ## Model Implementation
 
